@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NIOServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NIOServer/dist/NIOServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
